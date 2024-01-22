@@ -41,12 +41,18 @@ The program then outputs a .apkg file for the Anki Deck in the given directory.
 
  2. **Run Script**
     ```bash
-        python3 card-generator.py --file <path to file> --deck-name <deckname>
+        python3 card-generator.py --file example.json --deck_name example_deck 
     ```
+
+## Roadmap
+
+1. Integrate with chatGPT to generate the list of example sentences given a list of words instead of pre-providing a JSON object.
+2. Integrate with Google Translate API to auto-generate a TTS audio-fiel for the given Anki Card.
+
 
 ## Contributing
 
-I'd be surprised if anyone else will ever want to use this or contribute to this, but feel free to make a pull request if you want.
+I'd be surprised if anyone else will ever want to use this or contribute to this, but feel free to make a pull request if you want!
 
 ## License
 
