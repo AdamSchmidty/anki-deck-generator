@@ -45,7 +45,8 @@ The program then outputs a .apkg file for the Anki Deck in the given directory.
     ```
 
 ## Contributing
-    I'd be surprised if anyone else will ever want to use this or contribute to this, but feel free to make a pull request if you want.
+
+I'd be surprised if anyone else will ever want to use this or contribute to this, but feel free to make a pull request if you want.
 
 ## License
 
