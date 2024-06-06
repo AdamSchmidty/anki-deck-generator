@@ -36,7 +36,7 @@ The program then outputs a .apkg file for the Anki Deck in the given directory.
    Before running the script, make sure to install the necessary dependencies. You can do this using the following command:
 
    ```bash
-   pip install genanki
+   pip3 install genanki
    ```
 
  2. **Run Script**
